@@ -30,6 +30,13 @@
 3. **Отказоустойчивость (Offline Resilience):** Спроектировано кэширование активной записи и текстовый Fallback для карт на случай плохой связи в ангаре.
 4. **Техническая надежность:** Внедрена идемпотентность (Idempotency-Key) и серверная перепроверка времени (Re-validation) для исключения споров при отменах.
 
+## 🛠 Стек и инструменты (Hard Skills)
+- **Методологии:** Requirements Engineering, Scope Management (MVP), User Stories, Use Cases.
+- **Проектирование API:** REST API, OpenAPI 3.0 (Swagger), JSON.
+- **Моделирование:** ER-диаграммы, Sequence-диаграммы, State Machine (Mermaid.js).
+- **Критерии приемки:** BDD, Gherkin.
+- **UI/UX аналитика:** Mobile-first, Edge-cases handling, Accessibility.
+
 ---
 ## 🤖 Работа с ИИ (Prompts)
 Документация подготовлена с использованием AI-ассистента. 
